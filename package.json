@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-zorojs",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoro-js/eslint-config-zorojs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoro-js/eslint-config-zorojs/issues"
+  },
+  "homepage": "https://github.com/zoro-js/eslint-config-zorojs#readme",
+  "dependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "~3.2.2",
+    "eslint-config-standard": "^5.3.5",
+    "eslint-plugin-babel": "^3.3.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
