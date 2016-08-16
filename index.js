@@ -18,8 +18,10 @@ config.globals = config.globals || {}
 Object.assign(config.globals, {
   $: false,
   _: false,
+  Vue: false,
   Regular: false,
   restate: false,
+  restrap: false,
   RegularStrap: false
 })
 
