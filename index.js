@@ -27,6 +27,7 @@ Object.assign(config.globals, {
 
 config.parser = 'babel-eslint'
 
+// plugin html for vue
 config.plugins = (config.plugins || []).concat(['babel', 'html'])
 
 config.rules = config.rules || {}
