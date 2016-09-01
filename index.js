@@ -19,6 +19,7 @@ Object.assign(config.globals, {
   $: false,
   _: false,
   Vue: false,
+  VueRouter: false,
   Regular: false,
   restate: false,
   restrap: false,
