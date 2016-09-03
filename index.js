@@ -20,6 +20,8 @@ Object.assign(config.globals, {
   _: false,
   Vue: false,
   VueRouter: false,
+  Vuex: false,
+  syncVuexRouter: false,
   Regular: false,
   restate: false,
   restrap: false,
