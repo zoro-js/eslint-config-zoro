@@ -24,7 +24,8 @@ Object.assign(config.globals, {
   Regular: false,
   restate: false,
   restrap: false,
-  RegularStrap: false
+  RegularStrap: false,
+  VueStrap: false
 })
 
 config.parser = 'babel-eslint'
